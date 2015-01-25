@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		A14E2AC31A48CEC400E250AA /* DataConrtroller.swift in Sources */ = {isa = PBXBuildFile; fileRef = A14E2AC21A48CEC400E250AA /* DataConrtroller.swift */; };
+		A14E2AC51A4E0AAF00E250AA /* USDAItems.swift in Sources */ = {isa = PBXBuildFile; fileRef = A14E2AC41A4E0AAF00E250AA /* USDAItems.swift */; };
 		A1AC33741A45E53F0015D7A9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1AC33731A45E53F0015D7A9 /* AppDelegate.swift */; };
 		A1AC33771A45E53F0015D7A9 /* FoodTracker.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = A1AC33751A45E53F0015D7A9 /* FoodTracker.xcdatamodeld */; };
 		A1AC33791A45E53F0015D7A9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1AC33781A45E53F0015D7A9 /* ViewController.swift */; };
@@ -30,6 +31,7 @@
 
 /* Begin PBXFileReference section */
 		A14E2AC21A48CEC400E250AA /* DataConrtroller.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataConrtroller.swift; sourceTree = "<group>"; };
+		A14E2AC41A4E0AAF00E250AA /* USDAItems.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = USDAItems.swift; sourceTree = "<group>"; };
 		A1AC336E1A45E53F0015D7A9 /* FoodTracker.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FoodTracker.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1AC33721A45E53F0015D7A9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A1AC33731A45E53F0015D7A9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -91,6 +93,7 @@
 				A1AC337D1A45E53F0015D7A9 /* Images.xcassets */,
 				A1AC337F1A45E53F0015D7A9 /* LaunchScreen.xib */,
 				A1AC33751A45E53F0015D7A9 /* FoodTracker.xcdatamodeld */,
+				A14E2AC41A4E0AAF00E250AA /* USDAItems.swift */,
 				A1AC33711A45E53F0015D7A9 /* Supporting Files */,
 			);
 			path = FoodTracker;
@@ -224,6 +227,7 @@
 				A14E2AC31A48CEC400E250AA /* DataConrtroller.swift in Sources */,
 				A1AC33791A45E53F0015D7A9 /* ViewController.swift in Sources */,
 				A1AC33771A45E53F0015D7A9 /* FoodTracker.xcdatamodeld in Sources */,
+				A14E2AC51A4E0AAF00E250AA /* USDAItems.swift in Sources */,
 				A1AC33741A45E53F0015D7A9 /* AppDelegate.swift in Sources */,
 				A1AC33971A45E9150015D7A9 /* DetailViewController.swift in Sources */,
 			);

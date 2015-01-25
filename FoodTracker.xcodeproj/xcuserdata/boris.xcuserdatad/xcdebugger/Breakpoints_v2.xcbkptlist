@@ -10,13 +10,13 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "FoodTracker/ViewController.swift"
-            timestampString = "441312387.337744"
+            timestampString = "443827899.362717"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "159"
-            endingLineNumber = "159"
-            landmarkName = "makeRequest(_:)"
-            landmarkType = "5">
+            startingLineNumber = "288"
+            endingLineNumber = "288"
+            landmarkName = "ViewController"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
